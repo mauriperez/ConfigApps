@@ -1,0 +1,10 @@
+{
+  "urlprincipal": "https://demos.gruposolutia.com:802/json_mauri/",
+  "equipos": "equipos.json",
+  "patrocinadores": "patrocinadores.json",
+  "version": "version.json",
+  "jornadas": "jornadas.json",
+  "neww": "news.json",
+  "clasificaciones": "clasificaciones.json",
+  "resultados": "resultados.json"
+}
