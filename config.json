@@ -1,5 +1,5 @@
 {
-  "urlprincipal": "https://demos.gruposolutia.com:802/json_mauri/",
+  "urlprincipal": "https://raw.githubusercontent.com/mauriperez/ConfigApps/refs/heads/MVC_Net/",
   "equipos": "equipos.json",
   "patrocinadores": "patrocinadores.json",
   "version": "version.json",
