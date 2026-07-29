@@ -4,7 +4,7 @@
   "patrocinadores": "patrocinadores.json",
   "version": "version.json",
   "jornadas": "jornadas.json",
-  "neww": "news.json",
+  "news": "news.json",
   "clasificaciones": "clasificaciones.json",
   "resultados": "resultados.json"
 }
