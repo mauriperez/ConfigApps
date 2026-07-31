@@ -1,0 +1,126 @@
+Perfecto. Con la información que me has facilitado, puedo generar una política de privacidad bastante completa. No obstante, para cumplir mejor con el RGPD te recomiendo añadir también una dirección postal del club en una futura versión.
+
+Política de Privacidad
+Aplicación Móvil Mairena Voley Club
+
+Última actualización: 31 de julio de 2026
+
+1. Identidad del Responsable del Tratamiento
+
+La presente Política de Privacidad regula el uso de la aplicación móvil "Mairena Voley Club" (en adelante, la "Aplicación").
+
+Responsable del tratamiento:
+
+Entidad: Mairena Voley Club
+Correo electrónico: appmairenavoleyclub@gmail.com
+2. Finalidad de la Aplicación
+
+La Aplicación tiene como finalidad ofrecer información relacionada con la actividad deportiva del Mairena Voley Club, incluyendo:
+
+Resultados deportivos.
+Clasificaciones.
+Noticias y comunicados del club.
+Información de equipos.
+Información sobre competiciones y eventos.
+Notificaciones informativas relacionadas con la actividad del club.
+3. Datos Personales Tratados
+
+La Aplicación no solicita registro de usuarios ni recopila datos personales identificativos tales como:
+
+Nombre y apellidos.
+Documento de identidad.
+Correo electrónico.
+Número de teléfono.
+Dirección postal.
+Fotografías personales.
+Datos de localización.
+
+El acceso a la Aplicación es público y puede realizarse sin necesidad de crear una cuenta de usuario.
+
+4. Información Deportiva Mostrada
+
+La Aplicación puede mostrar información pública relacionada con la actividad deportiva del club, incluyendo:
+
+Equipos participantes.
+Resultados de partidos.
+Clasificaciones deportivas.
+Noticias y comunicados oficiales.
+
+Esta información tiene carácter meramente informativo y se ofrece para facilitar el seguimiento de la actividad deportiva del club.
+
+5. Notificaciones Push
+
+La Aplicación puede enviar notificaciones push informativas relacionadas con:
+
+Actualización de resultados.
+Cambios en clasificaciones.
+Publicación de noticias.
+Información relevante del club.
+
+Las notificaciones solo se enviarán cuando el usuario haya otorgado previamente su consentimiento mediante la aceptación de los permisos correspondientes en su dispositivo móvil.
+
+El usuario podrá revocar dicho consentimiento en cualquier momento desde la configuración de su dispositivo.
+
+6. Uso de Firebase
+
+La Aplicación utiliza servicios proporcionados por Google Firebase para garantizar el correcto funcionamiento de determinadas funcionalidades, incluyendo las notificaciones push.
+
+Firebase puede recopilar información técnica necesaria para la prestación del servicio, como:
+
+Identificadores de dispositivo.
+Información técnica de la aplicación.
+Datos relacionados con la entrega de notificaciones.
+
+El tratamiento de dichos datos se realiza conforme a las políticas de privacidad de Google y exclusivamente para el funcionamiento de los servicios contratados.
+
+Más información:
+
+https://policies.google.com/privacy
+https://firebase.google.com/support/privacy
+7. Cesión de Datos a Terceros
+
+Mairena Voley Club no vende, alquila ni cede datos personales de los usuarios a terceros.
+
+Únicamente podrán tratar información técnica los proveedores tecnológicos indispensables para el funcionamiento de la Aplicación, en calidad de encargados del tratamiento y conforme a la normativa aplicable.
+
+8. Publicidad y Patrocinios
+
+La Aplicación no muestra publicidad de terceros.
+
+No obstante, podrá incluir información corporativa, noticias o referencias a patrocinadores oficiales del club con carácter meramente informativo e institucional.
+
+9. Menores de Edad
+
+La Aplicación no está orientada a la recogida de datos personales de menores de edad.
+
+Asimismo, la Aplicación no dispone de mecanismos de registro ni solicita información personal de usuarios menores de edad.
+
+10. Conservación de la Información
+
+Dado que la Aplicación no recopila datos personales de los usuarios, no se realiza almacenamiento de información personal identificativa.
+
+Los datos técnicos generados por los servicios de terceros utilizados para el funcionamiento de la Aplicación se conservarán conforme a las políticas de dichos proveedores.
+
+11. Seguridad
+
+Mairena Voley Club adopta medidas razonables para proteger la Aplicación y garantizar la seguridad de la información gestionada a través de los servicios tecnológicos utilizados.
+
+12. Derechos de los Usuarios
+
+De conformidad con el Reglamento (UE) 2016/679 (RGPD) y demás normativa aplicable, los usuarios podrán ejercer los derechos que les correspondan mediante comunicación a:
+
+appmairenavoleyclub@gmail.com
+
+En particular, podrán solicitar información sobre cualquier tratamiento de datos que pudiera realizarse en relación con la utilización de la Aplicación.
+
+13. Cambios en la Política de Privacidad
+
+Mairena Voley Club se reserva el derecho de modificar la presente Política de Privacidad para adaptarla a novedades legislativas, tecnológicas o de funcionamiento de la Aplicación.
+
+La versión actualizada estará siempre disponible dentro de la Aplicación.
+
+14. Contacto
+
+Para cualquier consulta relacionada con esta Política de Privacidad o con el funcionamiento de la Aplicación puede contactar con:
+
+Mairena Voley Club Correo electrónico: appmairenavoleyclub@gmail.com
