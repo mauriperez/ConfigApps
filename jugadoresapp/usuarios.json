@@ -1,0 +1,19 @@
+{
+   "usuarios":
+   [
+      {
+		  "id":"1",
+		  "login":"mauri",
+		  "email":"",
+		  "password":"1234",
+		  "rol":"Director"
+	  },
+	  {
+		  "id":"1",
+		  "login":"pepelora",
+		  "email":"",
+		  "password":"4321",
+		  "rol":"Entrenador"
+	  },
+   ]
+}
