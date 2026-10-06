@@ -1,0 +1,13 @@
+{
+  "observaciones": [
+    {
+      "id": "OBS001",
+      "equipoId": "CM",
+      "jugadorId": "J001",
+      "fecha": "2026-08-13",
+      "texto": "Mejora bloqueo",
+      "updatedAt": "2026-08-13T20:00:00",
+      "updatedBy": "1"
+    }
+  ]
+}

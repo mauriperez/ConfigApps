@@ -5,15 +5,17 @@
 		  "id":"1",
 		  "login":"mauri",
 		  "email":"",
-		  "password":"1234",
-		  "rol":"Director"
+		  "passwordHash":"md5",
+		  "rol":"Director",
+		  "activo": true
 	  },
 	  {
-		  "id":"1",
-		  "login":"pepelora",
+		  "id":"2",
+		  "login":"user",
 		  "email":"",
-		  "password":"4321",
-		  "rol":"Entrenador"
+		  "passwordHash":"md5",
+		  "rol":"Entrenador",
+		  "activo": true
 	  },
    ]
 }

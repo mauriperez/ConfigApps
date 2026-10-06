@@ -1,0 +1,10 @@
+{
+  "equipos": [
+    {
+      "id": "CM",
+      "nombre": "Cadete Masculino",
+      "temporada": "2026/2027",
+      "updatedAt": "2026-08-13T09:00:00"
+    }
+  ]
+}

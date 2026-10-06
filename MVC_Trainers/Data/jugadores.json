@@ -1,0 +1,14 @@
+{
+  "jugadores": [
+    {
+      "id": "J001",
+      "equipoId": "CM",
+      "dorsal": 12,
+      "nombre": "Pablo García",
+      "posicion": "Central",
+      "createdBy": "mauri",
+      "updatedBy": "mauri",
+      "updatedAt": "2026-08-13T09:00:00"
+    }
+  ]
+}
