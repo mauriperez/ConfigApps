@@ -2,7 +2,7 @@
   {
     "idEquipo": "10",
     "Nombre": "BENJAMIN AMARILLO",
-    "SubNombre": "",
+    "SubNombre": "Mairena del Aljarafe Amarillo (Fem)",
     "Competicion": "JJDDPP",
     "Categoria": "Benjamin",
     "Genero": "Mixto",
@@ -13,7 +13,7 @@
   {
     "idEquipo": "5",
     "Nombre": "BENJAMIN AZUL",
-    "SubNombre": "",
+    "SubNombre": "Mairena del Aljarafe Azul (Fem)",
     "Competicion": "JJDDPP",
     "Categoria": "Benjamin",
     "Genero": "Mixto",
@@ -24,7 +24,7 @@
   {
     "idEquipo": "4",
     "Nombre": "BENJAMIN VERDE",
-    "SubNombre": "",
+    "SubNombre": "Mairena del Aljarafe Verde (Fem)",
     "Competicion": "JJDDPP",
     "Categoria": "Benjamin",
     "Genero": "Mixto",
@@ -35,7 +35,7 @@
   {
     "idEquipo": "10",
     "Nombre": "ALEVIN AMARILLO",
-    "SubNombre": "",
+    "SubNombre": "Mairena del Aljarafe Amarillo (Fem)",
     "Competicion": "JJDDPP",
     "Categoria": "Alevin",
     "Genero": "Mixto",
@@ -46,7 +46,7 @@
   {
     "idEquipo": "7",
     "Nombre": "ALEVIN AZUL",
-    "SubNombre": "",
+    "SubNombre": "Mairena del Aljarafe Azul (Fem)",
     "Competicion": "JJDDPP",
     "Categoria": "Alevin",
     "Genero": "Mixto",
@@ -79,7 +79,7 @@
   {
     "idEquipo": "6",
     "Nombre": "ALEVIN VERDE",
-    "SubNombre": "",
+    "SubNombre": "Mairena del Aljarafe Verde (Fem)",
     "Competicion": "JJDDPP",
     "Categoria": "Alevin",
     "Genero": "Mixto",
@@ -90,7 +90,7 @@
   {
     "idEquipo": "13",
     "Nombre": "INFANTIL ESCUELA AMARILLO",
-    "SubNombre": "",
+    "SubNombre": "Mairena del Aljarafe Amarillo (Fem)",
     "Competicion": "JJDDPP",
     "Categoria": "Infantil",
     "Genero": "Mixto",
@@ -101,7 +101,7 @@
   {
     "idEquipo": "11",
     "Nombre": "INFANTIL ESCUELA AZUL",
-    "SubNombre": "",
+    "SubNombre": "Mairena del Aljarafe Azul (Fem)",
     "Competicion": "JJDDPP",
     "Categoria": "Infantil",
     "Genero": "Mixto",
@@ -112,7 +112,7 @@
   {
     "idEquipo": "10",
     "Nombre": "INFANTIL ESCUELA VERDE",
-    "SubNombre": "",
+    "SubNombre": "Mairena del Aljarafe Verde (Fem)",
     "Competicion": "JJDDPP",
     "Categoria": "Infantil",
     "Genero": "Mixto",
@@ -172,7 +172,7 @@
     "Categoria": "Infantil",
     "Genero": "Femenino",
     "Equipo": "2D28A384-FAFE-4521-B7B7-0C87FAA0E7E2",
-    "ActualizaResultado": "03/11/2026 15:45:28",
+    "ActualizaResultado": "04/11/2026 10:17:22",
     "ActualizaClasificacion": "03/11/2026 15:45:31"
   },
   {
@@ -189,7 +189,7 @@
   {
     "idEquipo": "40",
     "Nombre": "CADETE ESCUELA AMARILLO",
-    "SubNombre": "",
+    "SubNombre": "Mairena del Aljarafe Amarillo (Fem)",
     "Competicion": "JJDDPP",
     "Categoria": "Cadete",
     "Genero": "Mixto",
@@ -200,7 +200,7 @@
   {
     "idEquipo": "19",
     "Nombre": "CADETE ESCUELA AZUL",
-    "SubNombre": "",
+    "SubNombre": "Mairena del Aljarafe Azul (Fem)",
     "Competicion": "JJDDPP",
     "Categoria": "Cadete",
     "Genero": "Mixto",
@@ -211,7 +211,7 @@
   {
     "idEquipo": "41",
     "Nombre": "CADETE ESCUELA ROSA",
-    "SubNombre": "",
+    "SubNombre": "Mairena del Aljarafe Rosa (Fem)",
     "Competicion": "JJDDPP",
     "Categoria": "Cadete",
     "Genero": "Mixto",
@@ -222,7 +222,7 @@
   {
     "idEquipo": "18",
     "Nombre": "CADETE ESCUELA VERDE",
-    "SubNombre": "",
+    "SubNombre": "Mairena del Aljarafe Verde (Fem)",
     "Competicion": "JJDDPP",
     "Categoria": "Cadete",
     "Genero": "Mixto",
@@ -288,7 +288,7 @@
   {
     "idEquipo": "29",
     "Nombre": "JUVENIL ESCUELA AZUL",
-    "SubNombre": "",
+    "SubNombre": "Mairena del Aljarafe Azul (Fem)",
     "Competicion": "JJDDPP",
     "Categoria": "Juvenil",
     "Genero": "Femenino",
@@ -299,7 +299,7 @@
   {
     "idEquipo": "24",
     "Nombre": "JUVENIL ESCUELA VERDE",
-    "SubNombre": "",
+    "SubNombre": "Mairena del Aljarafe Verde (Fem)",
     "Competicion": "JJDDPP",
     "Categoria": "Juvenil",
     "Genero": "Femenino",
